@@ -1,0 +1,3 @@
+Nombre: Katia Lizbeth Castro Melgoza
+No. Contro: 220120138
+Lenguaje de programación:C++/Python
