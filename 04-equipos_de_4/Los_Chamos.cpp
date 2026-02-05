@@ -1,8 +1,6 @@
 /* SPDX-License-Identifier: GPL-3.0-or-later
  */
 
- //Luis Angel Flore Espinosa - 210110157
-
 #include <iostream>
 
 #include "suma_Los_Chamos.h"
